@@ -1,5 +1,23 @@
 **Estimation of the recent expansion rate of _Ruspolia nitidula_ (Orthoptera) on a regional and landscape scale**
 
+Data and scripts for analysis in https://doi.org/10.3390/insects12070639
+```
+@article{kalab2021estiamtion,
+  title={Estimation of the Recent Expansion Rate of \textit{Ruspolia nitidula} (Orthoptera) on a Regional and Landscape Scale},
+  author={Kaláb, Oto and Pyszko, Petr and Kočárek, Petr},
+  year={2021},
+  volume={12},
+  number={7},
+  journal={Insects},
+  ISSN={2075-4450},
+  url={http://dx.doi.org/10.3390/insects12070639},
+  DOI={10.3390/insects12070639},
+  publisher={MDPI AG},
+  month={Jul},
+  pages={639}
+ }
+```
+
 Repository includes code for the data downloads ([`scripts/data_download`](https://github.com/kalab-oto/ruspolia-wip/tree/master/scripts/data_download)), complete analysis ([`scripts/`](https://github.com/kalab-oto/ruspolia-wip/tree/master/scripts)), generating plots [`scripts/6_plot.R`](https://github.com/kalab-oto/ruspolia-wip/blob/b838c3853a68eef03b9e6c311973f4df238f36b5/scripts/6_plot.R) and maps from QGIS [`scripts/7_qgis_maps.py`](https://github.com/kalab-oto/ruspolia-wip/blob/b838c3853a68eef03b9e6c311973f4df238f36b5/scripts/7_qgis_maps) (QGIS project is included in [`qgis/`](https://github.com/kalab-oto/ruspolia-wip/tree/master/qgis) directory).
 
 ### Maps
