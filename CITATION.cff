@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+message: "Please cite this repository using these metadata."
 authors:
 - family-names: Kaláb
   given-names: Oto
@@ -18,4 +19,5 @@ doi: 10.3390/insects12070639
 journal: Insects
 issue: 12
 volume: 7
+number: 639
 year: 2021
